@@ -32,6 +32,15 @@ It also serves as a practical introduction to working with text files and handli
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Bash%20CMD-000000?logo=bashcmd&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Thread%20Pool%20Excecutor-000000?logo=threadpool&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/concurrent%20futures-000000?logo=concurrent.futures&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/hashlib-000000?logo=hashlib&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/bcrypt-000000?logo=bcrypt&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/scrypt-000000?logo=scrypt&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tkinter-000000?logo=tkinter&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MessageBox-000000?logo=messagebox&logoSize=auto)
 
 - Python: The main language used to develop the cracking script.
 - Password Dictionaries: .txt files used to try matching passwords with hashes.

@@ -32,6 +32,15 @@ También sirve como una introducción práctica al trabajo con archivos de texto
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Bash%20CMD-000000?logo=bashcmd&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Thread%20Pool%20Excecutor-000000?logo=threadpool&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/concurrent%20futures-000000?logo=concurrent.futures&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/hashlib-000000?logo=hashlib&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/bcrypt-000000?logo=bcrypt&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/scrypt-000000?logo=scrypt&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tkinter-000000?logo=tkinter&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MessageBox-000000?logo=messagebox&logoSize=auto)
 
 - Python: el lenguaje principal utilizado para desarrollar el script de descifrado.
 - Diccionarios de contraseñas: archivos .txt utilizados para intentar hacer coincidir las contraseñas con los hashes.
